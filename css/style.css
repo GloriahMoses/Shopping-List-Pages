@@ -19,6 +19,9 @@ h3 {
     font-size: 40px;
 }
 
+.view-site p{
+  text-align: center;}
+
 .navbar{
   background-color: #eee;
   width: 100%;
@@ -90,7 +93,7 @@ th, td {
 }
 
 .footer{
-  margin-top: 3.2em;
+  margin-top: 2.5em;
   bottom: 0;
   font-style: italic;
   color: #17a2b8;

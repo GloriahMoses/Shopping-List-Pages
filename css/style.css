@@ -20,7 +20,9 @@ h3 {
 }
 
 .view-site p{
-  text-align: center;}
+  text-align: center;
+  margin-left: 5em;
+}
 
 .navbar{
   background-color: #eee;
